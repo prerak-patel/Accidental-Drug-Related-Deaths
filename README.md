@@ -4,13 +4,6 @@
 
 Analyzing drug related deaths in Connecticut between 2012-2018 to identify key factors responsible and draw conclusions that could help increase public awareness and allow responsible agencies to take preventive actions.
 
-## Questions
-
-* Are accidental drug related deaths increasing year over year?
-* Is there a seasonal impact on drug related deaths? 
-* Does age, gender, and race have any impact on these deaths?
-* Are there particular drugs impacting these deaths? 
-
 ## Data Collection and Scrubbing
 
 ### Data Source
